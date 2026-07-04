@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(top -l 2 -pid 50065 -stats pid,cpu,mem,time)",
+      "Bash(sample 50065 4 -file /private/tmp/claude-501/-Users-devashish-Desktop-krish-ds-churn-prediction/753dcef6-de68-4147-85b9-2adf615272db/scratchpad/kernel_sample3.txt)"
+    ]
+  }
+}
